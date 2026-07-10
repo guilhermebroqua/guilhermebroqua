@@ -1,6 +1,6 @@
 # Hi, I'm Guilherme 👋
 
-🎓 Computer Science Student @[UNISC]([https://www.unisc.br/pt/])
+🎓 Computer Science Student @[UNISC]((https://www.unisc.br/pt/))
 
 💻 Interested in software development, automation and technology.
 
