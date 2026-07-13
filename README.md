@@ -34,7 +34,6 @@
 <br><br>
 </div>
 
-
 <!-- **************************************************************** CONTATO **************************************************************** -->
 <div align="center">
 
@@ -42,8 +41,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](mailto:guilhermebroqua@gmail.com?subject=Hello!%20I%20found%20your%20GitHub)
-
-
 </div>
-
-
