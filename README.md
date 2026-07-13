@@ -3,6 +3,7 @@
 🎓 Computer Science Student @[UNISC](https://www.unisc.br/pt/)
 
 💻 Interested in software development, automation and technology.
+ Always looking for new challenges and opportunities to improve my skills.
 
 <!-- **************************************************************** TECNOLOGIAS **************************************************************** -->
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=72CB26&center=true&width=700&lines=Tecnologias;Technologies" alt="Typing SVG" /></a></h3>
@@ -46,4 +47,4 @@
 
 </div>
 
-🚀 Always looking for new challenges and opportunities to improve my skills.
+
