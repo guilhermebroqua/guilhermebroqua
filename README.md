@@ -1,10 +1,10 @@
 # Hi, I'm Guilherme 👋
 
-🎓 Computer Science Student @[UNISC](https://www.unisc.br/pt/)
+🎓 Computer Science student in my 6th semester at [UNISC](https://www.unisc.br/pt/)
 
-💻 Interested in software development, automation and technology.
+💻 Focused on software development, automation and technology.
 
- Always looking for new challenges and opportunities to improve my skills.
+🚀 Always learning, building projects and looking for new challenges to improve my skills.
 
 <!-- **************************************************************** TECNOLOGIAS **************************************************************** -->
 <h3 align="center">Technologies</h3>
@@ -12,33 +12,45 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-      <br>Github
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
+      <br>GitHub
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="HTML5" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" />
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="css" />
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" />
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="PHP" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" />
       <br>MySQL
+    </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
-      <br>VsCode
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" />
+      <br>Android
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" />
+      <br>VS Code
+    </td>
   </tr>
 </table>
-<br><br>
-</div>
+
+<br>
 
 <!-- **************************************************************** CONTATO **************************************************************** -->
+
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guilhermedb) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guilhermedb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](mailto:guilhermebroqua@gmail.com?subject=Hello!%20I%20found%20your%20GitHub)
+
 </div>
