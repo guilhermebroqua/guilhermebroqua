@@ -6,7 +6,7 @@
  Always looking for new challenges and opportunities to improve my skills.
 
 <!-- **************************************************************** TECNOLOGIAS **************************************************************** -->
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=72CB26&center=true&width=700&lines=Tecnologias;Technologies" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=72CB26&center=true&width=700&lines=Technologies;Technologies" alt="Typing SVG" /></a></h3>
 <p align="center">
 <p align="center">
 <div style="display: flex; align-items: flex-start; align: center">
