@@ -3,6 +3,7 @@
 🎓 Computer Science Student @[UNISC](https://www.unisc.br/pt/)
 
 💻 Interested in software development, automation and technology.
+
  Always looking for new challenges and opportunities to improve my skills.
 
 <!-- **************************************************************** TECNOLOGIAS **************************************************************** -->
