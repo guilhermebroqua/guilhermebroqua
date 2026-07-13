@@ -28,10 +28,6 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" />
       <br>Android
     </td>
