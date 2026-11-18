@@ -32,6 +32,14 @@
       <br>HTML5
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+      <br>CSS
+    </td>
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" />
       <br>VS Code
     </td>
